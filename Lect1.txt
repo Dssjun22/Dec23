@@ -4,7 +4,7 @@ main(){
 syso("Hello");
 
 syso("a*b="+(a*b));
-
+syso("a/b="+(a/b));
 
 
 }
