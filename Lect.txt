@@ -2,3 +2,5 @@ Hi
 Hello
 Welcome
 Git & Github Lect
+Timing
+10am-11.30am
